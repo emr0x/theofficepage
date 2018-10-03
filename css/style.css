@@ -1,0 +1,238 @@
+a{
+  color:cornflowerblue;
+  font-weight:bold;
+  font-size:23px;
+  text-decoration:none;
+}
+
+a:hover{
+  color:crimson;
+}
+
+footer{
+  color:rgb(59,89,155);
+  font-weight:bold;
+}
+
+nav li{
+  font-size:50px;
+}
+
+nav{
+  margin:20px 30px;
+  background-color:rgb(181,201,233);
+  border-style:solid;
+  border-color:rgb(59,89,155);
+  padding:20px;
+}
+
+nav a{
+  text-shadow:1px 1px #000000;
+}
+
+#episodes{
+  color:rgb(59,89,155);
+  margin:40px 30px;
+  font-size:50px;
+  text-shadow:1px 2px #000000
+}
+
+#okay{
+  color:cornflowerblue;
+  margin: 20px 30px;
+}
+
+.padding{
+  padding:8px;
+}
+
+.titles{
+  font-size:30px;
+  color:rgb(59,89,155);
+  padding:15px;
+}
+
+hr{
+  display:block;
+  height:2px;
+  border:0;
+  border-top:1px solid #ccc;
+  margin:1em 0;
+  padding: 5px;
+}
+
+#titles{
+  text-shadow:1px 2px #000000;
+  color:rgb(59,89,155);
+  font-size:60px;
+  text-align:center;
+}
+
+#gr{
+  text-align:center;
+  color:cornflowerblue;
+}
+
+#cool{
+  margin:30px 40px;
+  color:cornflowerblue;
+}
+
+header{
+  font-family:courier;
+  background-image:url("../images/giphy.gif");
+  border-style:inset;
+  border-width:10px;
+  border-color:cornflowerblue;
+  text-align:center;
+  padding:25px;
+  height:145px;
+  margin:50px 50px;
+  font-size:25px
+}
+
+header h1{
+  color:crimson;
+  background-color:aliceblue;
+}
+
+.mainpage{
+  color:rgb(59,89,155);
+  border-style:groove;
+  border-color:rgb(59,89,155);
+  background-image:url("../images/yolo.gif");
+  font-size:50px;
+  padding:12px;
+}
+
+.nav{
+  list-style-type:none;
+  margin:20px 30px;
+  padding:15px;
+  text-align:center;
+  font-size:50px;
+}
+
+
+.nav a{
+  display:inline;
+  padding:12px;
+  font-size:50px;
+}
+
+.nav li{
+  display:inline;
+  margin:50px;
+}
+
+#videoclass{
+  background-image:url("../images/niagra.gif");
+  height:145px;
+  color:crimson;
+}
+
+
+
+#quotesclass{
+  background-image:url("../images/tenor.gif");
+  height:145px;
+}
+
+.quotelink{
+  color:rgb(59,89,155);
+  border-style:groove;
+  border-color:rgb(59,89,155);
+  background-image:url("../images/chuckle.gif");
+  font-size:50px;
+  padding:12px;
+}
+
+#quotelink:hover{
+  color:crimson;
+}
+
+#videolink:hover{
+  color:crimson;
+}
+
+.videolink{
+  color:rgb(59,89,155);
+  border-style:groove;
+  border-color:rgb(59,89,155);
+  background-image:url("../images/funrun.gif");
+  font-size:50px;
+  padding:12px;
+}
+
+section{
+  margin:20px 70px;
+}
+
+body{
+  font-family:courier;
+  background-color:aliceblue;
+}
+
+.scenes{
+  font-weight:bold;
+  font-size:20px;
+  color:black;
+  margin:20px 30px;
+}
+
+ul img{
+  margin:20px 35px;
+}
+
+div{
+  border-style:dashed;
+  border-color:rgb(59,89,155);
+  padding:12px;
+}
+
+#blah{
+  color:rgb(59,89,155);
+  margin:40px 40px;
+  font-size:50px;
+  text-shadow:1px 2px #000000;
+}
+
+#ending{
+  color:rgb(59,89,155);
+  font-style:italic;
+}
+
+.ol{
+  color:black;
+  margin: 30px 20px;
+}
+
+.button{
+  color:white;
+  background-color:rgb(59,89,155);
+  font-family:courier;
+  font-size:15px;
+  padding: 10px;
+}
+
+.font{
+  font-weight:bold;
+}
+
+#yes{
+  color:rgb(59,89,155);
+  margin: 40px 40px;
+}
+
+.button:hover{
+  background-color:cornflowerblue;
+}
+
+.button a{
+  font-size:15px;
+}
+
+table, th, td{
+  border:1px solid black;
+  padding: 15px;
+}
